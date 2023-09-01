@@ -3,7 +3,7 @@
 개요 : Spring sts으로 파티룸예약사이트를 제작한다.
 
 PartyRoom.zip : 프로젝트 시연 영상 <br>
-YeoginEottae folder : 프로젝트 소스
+YeoginEottae.zip folder : 프로젝트 소스
 
 역할
 - 전체적인 디자인 설계 및 구현
